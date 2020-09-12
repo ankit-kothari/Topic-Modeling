@@ -127,4 +127,4 @@ mapping ={'0':'Tops','1':'Dresses','2':'Dresses','3':'Sweater/Jackets','4':'Shir
 
 ### Word Cloud
 
-<img src="https://github.com/ankit-kothari/data_science_journey/blob/master/github_images/tp1.png" width="80%">
+<img src="https://github.com/ankit-kothari/data_science_journey/blob/master/github_images/tp1.png" width="100%">
