@@ -16,7 +16,9 @@ Link to the google-colab workbook for Topic Modeling
 - Removing all the leading spaces in each of the reviews
 - Dropping all the rows with no Reviews
 
-[Comparison  Original Text vs Clean Text](https://www.notion.so/d13adbc09c1f49ac92a737748ae072e6)
+[Comparison  Original Text vs Clean Text]
+
+<img src="https://github.com/ankit-kothari/data_science_journey/blob/master/github_images/tp2.png" width="50%">
 
 ## **Comparison between Spark and Pandas Transformation**
 
@@ -55,11 +57,13 @@ Link to the google-colab workbook for Topic Modeling
 
 Documents are probablity distribution over latent topics 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f6697fbf-f689-4270-87f1-5bce4ba9838f/Screen_Shot_2020-06-23_at_1.51.16_AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f6697fbf-f689-4270-87f1-5bce4ba9838f/Screen_Shot_2020-06-23_at_1.51.16_AM.png)
+<img src="https://github.com/ankit-kothari/data_science_journey/blob/master/github_images/Screen_Shot_2020-06-23_at_1.51.16_AM.png" width="50%">
+
 
 Topics are themselves probablity distribution over words (Vocublary of words in the whole dataset)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/da106799-1938-4bb8-8a18-d8f02afd2d36/Screen_Shot_2020-06-23_at_1.51.42_AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/da106799-1938-4bb8-8a18-d8f02afd2d36/Screen_Shot_2020-06-23_at_1.51.42_AM.png)
+
+<img src="https://github.com/ankit-kothari/data_science_journey/blob/master/github_images/Screen_Shot_2020-06-23_at_1.51.42_AM.png" width="50%">
 
 ### Topics:
 
@@ -89,7 +93,9 @@ mapping ={'0':'Sweater/Jackets','1':'Dresses','2':'Bottom/Jeans','3':'Shirt/Tops
 - It is used with TF-IDF to model topics across documents.
 - Using the original matrix (A), NMF will give you two matrices (W and H). W is the topics it found and H is the coefficients (weights) for those topics. In other words, A is articles by words (original), H is articles by topics and W is topics by words.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a51fb7d8-9372-4443-b0c4-c1a497e81dbc/Screen_Shot_2020-06-23_at_3.00.43_AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a51fb7d8-9372-4443-b0c4-c1a497e81dbc/Screen_Shot_2020-06-23_at_3.00.43_AM.png)
+
+<img src="https://github.com/ankit-kothari/data_science_journey/blob/master/github_images/Screen_Shot_2020-06-23_at_3.00.43_AM.png" width="50%">
+
 
 ### Topics
 
@@ -121,4 +127,4 @@ mapping ={'0':'Tops','1':'Dresses','2':'Dresses','3':'Sweater/Jackets','4':'Shir
 
 ### Word Cloud
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fd05162f-5d0e-4581-918d-5aa5a7114259/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fd05162f-5d0e-4581-918d-5aa5a7114259/Untitled.png)
+<img src="https://github.com/ankit-kothari/data_science_journey/blob/master/github_images/tp1.png" width="50%">
