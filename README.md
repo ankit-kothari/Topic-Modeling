@@ -18,7 +18,7 @@ Link to the google-colab workbook for Topic Modeling
 
 [Comparison  Original Text vs Clean Text]
 
-<img src="https://github.com/ankit-kothari/data_science_journey/blob/master/github_images/tp2.png" width="50%">
+<img src="https://github.com/ankit-kothari/data_science_journey/blob/master/github_images/tp2.png" width="90%">
 
 ## **Comparison between Spark and Pandas Transformation**
 
@@ -127,4 +127,4 @@ mapping ={'0':'Tops','1':'Dresses','2':'Dresses','3':'Sweater/Jackets','4':'Shir
 
 ### Word Cloud
 
-<img src="https://github.com/ankit-kothari/data_science_journey/blob/master/github_images/tp1.png" width="50%">
+<img src="https://github.com/ankit-kothari/data_science_journey/blob/master/github_images/tp1.png" width="80%">
